@@ -1,1 +1,1 @@
-some simple scripts for xxx.
+some simple scripts for python.
