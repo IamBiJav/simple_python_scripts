@@ -1,1 +1,0 @@
-some simple scripts for python.
